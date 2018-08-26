@@ -20,7 +20,7 @@ run on any development/production server
 
 ## Meta
 
-Kimani Mbugua – [@YourTwitter](https://twitter.com/dbader_org) – kimanimbuguah@gmail.com
+Kimani Mbugua – kimanimbuguah@gmail.com
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
