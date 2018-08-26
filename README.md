@@ -22,6 +22,4 @@ run on any development/production server
 
 Kimani Mbugua – kimanimbuguah@gmail.com
 
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
 [https://github.com/kimani-mbuguah/proxi](https://github.com/kimani-mbuguah/)
